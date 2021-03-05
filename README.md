@@ -30,5 +30,7 @@ Haverá 4 caixas para atendimentos, que atenderão da seguinte forma:
 
 Cada caixa, tem o seu botão. Ao clicar no seu respectivo botão, este, deverá buscar a próxima senha a ser atendida. Na sequência, deverá exibir no painel a senha e o caixa. Por fim, o caixa deverá retirar a senha da fila. Se não houver nenhuma senha na fila, não faz nada.
 
-# Resultado final
-[![Dev Front-End](https://i.imgur.com/qvPXvE4.png)](https://www.linkedin.com/in/guilherme-borba-75048b127/)
+# Resultado final.
+<p align="center">
+  [![Dev Front-End](https://i.imgur.com/qvPXvE4.png)](https://www.linkedin.com/in/guilherme-borba-75048b127/)
+</p>
