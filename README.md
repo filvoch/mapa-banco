@@ -32,5 +32,5 @@ Cada caixa, tem o seu botão. Ao clicar no seu respectivo botão, este, deverá 
 
 # Resultado final.
 <p align="center">
-  [![Dev Front-End](https://i.imgur.com/qvPXvE4.png)](https://www.linkedin.com/in/guilherme-borba-75048b127/)
+  <a href="https://www.linkedin.com/in/filvoch/"><img title="Mapa-Banco" src="https://i.imgur.com/qvPXvE4.png"/>
 </p>
