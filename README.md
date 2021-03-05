@@ -1,9 +1,6 @@
 <p>Nesta Atividade Mapa, você deve desenvolver um sistema de controle de filas de um banco fictício utilizando a linguagem Java.</br> 
   Considere que neste banco há apenas uma agência e, esta agência, possui 4 caixas de atendimento.</p>
-  
-[![Dev Front-End](https://i.imgur.com/qvPXvE4.png)](https://www.linkedin.com/in/guilherme-borba-75048b127/)
-
-
+ 
 # Os atendimentos a clientes podem ser divididos em 3 categorias:
 
 - Preferencial: para pessoas que possuem atendimento prioritário assegurado por lei;
@@ -32,3 +29,6 @@ Haverá 4 caixas para atendimentos, que atenderão da seguinte forma:
 - Caixa 4: realiza os atendimentos comum. Se não houver atendimentos comuns na fila, atende o próximo (rápido ou prioritário).
 
 Cada caixa, tem o seu botão. Ao clicar no seu respectivo botão, este, deverá buscar a próxima senha a ser atendida. Na sequência, deverá exibir no painel a senha e o caixa. Por fim, o caixa deverá retirar a senha da fila. Se não houver nenhuma senha na fila, não faz nada.
+
+# Resultado final
+[![Dev Front-End](https://i.imgur.com/qvPXvE4.png)](https://www.linkedin.com/in/guilherme-borba-75048b127/)
