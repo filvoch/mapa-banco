@@ -1,7 +1,8 @@
 # Mapa-banco
 [![Dev Front-End](https://i.imgur.com/qvPXvE4.png)](https://www.linkedin.com/in/guilherme-borba-75048b127/)
 
-<p>Nesta Atividade Mapa, você deve desenvolver um sistema de controle de filas de um banco fictício utilizando a linguagem Java. Considere que neste banco há apenas uma agência e, esta agência, possui 4 caixas de atendimento.</p>
+<p>Nesta Atividade Mapa, você deve desenvolver um sistema de controle de filas de um banco fictício utilizando a linguagem Java. 
+  Considere que neste banco há apenas uma agência e, esta agência, possui 4 caixas de atendimento.</p>
 
 # Os atendimentos a clientes podem ser divididos em 3 categorias:
 
